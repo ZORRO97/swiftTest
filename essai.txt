@@ -4,4 +4,4 @@ ON s'éclate avec les commit
 
 Modification sur home test 
 
-génération du conflit sur un autre
+génération du conflit sur un test de ouf
