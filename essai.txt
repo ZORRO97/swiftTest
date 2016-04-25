@@ -3,3 +3,5 @@ banzai test de modification
 ON s'éclate avec les commit
 
 Modification sur home test 
+
+génération du conflit sur un autre
